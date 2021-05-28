@@ -104,10 +104,10 @@ Building the distribution requires:
 
 ```bash
 $ git clone <this repository>
-$ cd optocitrico
-$ ./optocitrico.sh box
-$ ./optocitrico.sh assets
-$ ./optocitrico.sh build <board_name>
+$ cd octocitrico
+$ ./octocitrico.sh box
+$ ./octocitrico.sh assets
+$ ./octocitrico.sh build <board_name>
 ```
 
 Build process is slow and verbose it could take up to 3h depending on your hardware. Be patient.  
